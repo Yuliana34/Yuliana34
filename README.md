@@ -77,8 +77,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Yuliana34/Yuliana34/output/snake.svg" alt="Snake animation" />
-
-###
