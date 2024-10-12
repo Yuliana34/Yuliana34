@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/9f/eb/6a/9feb6ae6ea5ee06371553d6398f1419b.gif"  />
+
+###
+
 <p align="left">Soy estudiante de Ingeniería en Software con un fuerte enfoque en el desarrollo de aplicaciones y soluciones tecnológicas innovadoras. Mi formación académica me ha proporcionado una sólida base en lenguajes de programación, estructuras de datos y metodologías de desarrollo ágil. Poseo habilidades en el diseño y desarrollo de software, así como en la resolución de problemas complejos.<br><br>He trabajado en proyectos académicos que me han permitido aplicar mis conocimientos en el desarrollo de aplicaciones web y móviles. Soy proactivo y me apasiona aprender nuevas tecnologías, lo que me permite adaptarme rápidamente a entornos de trabajo dinámicos. Además, tengo experiencia en trabajo en equipo y en la colaboración con otros estudiantes para alcanzar objetivos comunes.</p>
 
 ###
@@ -10,7 +14,7 @@
 
 ###
 
-<p align="left">enguajes de programación: Java, Python, JavaScript, Dart</p>
+<p align="left">Lenguajes de programación: Java, Python, JavaScript, Dart</p>
 
 ###
 
@@ -76,17 +80,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Yuliana34/Yuliana34/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YhulianMon">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YhulianMon&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/9f/eb/6a/9feb6ae6ea5ee06371553d6398f1419b.gif"  />
 
 ###
