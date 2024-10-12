@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Metodologías ágiles: Scrum, Kanban<br>Herramientas de control de</p>
+<p align="left">Metodologías ágiles: Scrum, Kanban <p>
 
 ###
 
