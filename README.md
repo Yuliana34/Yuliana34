@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería en Software con un fuerte enfoque en el desarrollo de aplicaciones y soluciones tecnológicas innovadoras. Mi formación académica me ha proporcionado una sólida base en lenguajes de programación, estructuras de datos y metodologías de desarrollo ágil. Poseo habilidades en el diseño y desarrollo de software, así como en la resolución de problemas complejos.<br><br>He trabajado en proyectos académicos que me han permitido aplicar mis conocimientos en el desarrollo de aplicaciones web y móviles. Soy proactivo y me apasiona aprender nuevas tecnologías, lo que me permite adaptarme rápidamente a entornos de trabajo dinámicos. Además, tengo experiencia en trabajo en equipo y en la colaboración con otros estudiantes para alcanzar objetivos comunes.</p>
+<p align="left">Soy estudiante de Ingeniería en Software con un fuerte enfoque en el desarrollo de aplicaciones y soluciones tecnológicas innovadoras. Mi formación académica me ha proporcionado una sólida base en lenguajes de programación, estructuras de datos y metodologías de desarrollo ágil. Poseo habilidades en el diseño y desarrollo de software, así como en la resolución de problemas complejos.<br><br>He trabajado en proyectos académicos que me han permitido aplicar mis conocimientos en el desarrollo de aplicaciones web y móviles. Soy proactiva y me apasiona aprender nuevas tecnologías, lo que me permite adaptarme rápidamente a entornos de trabajo dinámicos. Además, tengo experiencia en trabajo en equipo y en la colaboración con otros estudiantes para alcanzar objetivos comunes.</p>
 
 ###
 
